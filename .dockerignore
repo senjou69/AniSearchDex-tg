@@ -1,7 +1,8 @@
 .git
 .idea
 *.pyc
-*.json
 __pycache__
+Dockerfile
 /anisearchdexvenv
 anisearchdex_log.txt
+
